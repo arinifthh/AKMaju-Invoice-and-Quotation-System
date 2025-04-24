@@ -1,0 +1,18 @@
+.bg-login-image,
+.bg-password-image {
+    background: url(../img/logo2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.card-outline-primary {
+    border-color: #007bff !important;
+}
+
+.logo-company {
+    background: url(../img/logo2.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 150px;
+    height: 100%;
+}
