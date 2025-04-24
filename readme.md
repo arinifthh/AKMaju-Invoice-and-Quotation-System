@@ -28,8 +28,8 @@ This system was developed as part of a **group academic project**, incorporating
 ## 🖥️ View the System Interface
 
 You can explore the interface through:
-- 📊 [Presentation Slide](./Presentation-Slide.pdf)
-- 📘 [User Manual](./User-Manual.pdf)
+- 📊 [Presentation Slide](./Presentation%20Slide.pdf)
+- 📘 [User Manual](./User%20Manual.pdf)
 
 ---
 
